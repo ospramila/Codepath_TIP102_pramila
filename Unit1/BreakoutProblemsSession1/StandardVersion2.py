@@ -150,7 +150,7 @@ running_sum(superhero_stats)
 superhero_stats = [3, 1, 2, 10, 1]
 running_sum(superhero_stats)
 
-# Problem 12: Shuffle
+# Problem 12: Shuffle check
 def shuffle(cards):
     midpoint = len(cards)//2
     listResult2 =[]
